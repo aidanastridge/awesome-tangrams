@@ -2,7 +2,7 @@
 
 # awesome tangrams
 
-Might be the most unusual awesome list!
+Might be the oddest awesome list!
 
 ## History
 
