@@ -6,7 +6,7 @@ Might be the oddest awesome list!
 
 ## History
 
-## Where can I play with tangrams?
+## Where and how?
 
 ## Books
 
