@@ -16,8 +16,7 @@ Tangrams have been enjoyed by people of all ages and backgrounds for generations
 
 ## Rumours...
 
-It's said that Napoleon was a fan of tangrams. However, there isn't historical evidence to support this claim. Nor Thomas Edison or Edgar Allen Poe.  
-
+It's said that Napoleon, Thomas Edison, and Edgar Allen Poe were fans of tangrams. However, there isn't any evidence to support these claims.
 However, Lewis Carroll was a fan.
 
 
