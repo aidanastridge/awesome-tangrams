@@ -21,9 +21,6 @@ It's said that Napoleon was a fan of tangrams and enjoyed playing with them duri
 However, Lewis Carroll was a fan.
 
 
-
-Howe
-
 ## Books
 
 [Tangrams: 330 Puzzles](https://www.amazon.com/Tangrams-Puzzles-Dover-Recreational-Math/dp/0486214834/ref=sr_1_4?keywords=tangram+puzzles&qid=1692383585&s=books&sr=1-4)  
