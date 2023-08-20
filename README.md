@@ -8,7 +8,7 @@ Might be the oddest awesome list!
 
 Tangram is a traditional Chinese puzzle game that consists of seven flat pieces called tans. These tans are put together to form various shapes, often animals, objects, or people. The objective of the game is to recreate a given silhouette using all seven pieces, without overlapping or leaving any gaps. It's a popular recreational activity that promotes spatial reasoning and creativity.  
 
-Elm's logo is the tans.
+Elm's logo is a tangram.
 
 ## Whom and where?
 
