@@ -16,7 +16,7 @@ Tangrams have been enjoyed by people of all ages and backgrounds for generations
 
 ## Rumours...
 
-It's said that Napoleon was a fan of tangrams and enjoyed playing with them during his exile on the island of Saint Helena. However, there isn't concrete historical evidence to support this claim
+It's said that Napoleon was a fan of tangrams and enjoyed playing with them during his exile on the island of Saint Helena. However, there isn't concrete historical evidence to support this claim.
 
 ## Books
 
