@@ -10,6 +10,8 @@ Tangram is a traditional Chinese puzzle game that consists of seven flat pieces 
 
 ## History
 
+Tangrams has been enjoyed by people of all ages and backgrounds for generations. Tangrams have been popular among mathematicians, educators, and puzzle enthusiasts due to their mathematical and geometrical aspects. They have also been featured in various forms of art, literature, and cultural exhibitions. 
+
 ## Where and how?
 
 ## Books
