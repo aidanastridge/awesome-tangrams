@@ -16,6 +16,8 @@ Tangrams have been enjoyed by people of all ages and backgrounds for generations
 
 ## Rumours...
 
+It's said that Napoleon was a fan of tangrams and enjoyed playing with them during his exile on the island of Saint Helena. However, there isn't concrete historical evidence to support this claim
+
 ## Books
 
 [Tangrams: 330 Puzzles](https://www.amazon.com/Tangrams-Puzzles-Dover-Recreational-Math/dp/0486214834/ref=sr_1_4?keywords=tangram+puzzles&qid=1692383585&s=books&sr=1-4)  
